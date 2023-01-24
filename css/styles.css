@@ -1,0 +1,47 @@
+
+.container-fluid{
+    background-image: url(../img/fondobootstrap.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login-form{
+    color: white;
+}
+
+.main-row{
+    height: 100vh;
+}
+
+.logo-username{
+    background-color: lightgray;
+    height: 15vh;
+    color: grey;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.logo-letras{
+    width: 85%;
+}
+
+.logo-imagen{
+    width: 15%;
+}
+
+.form1{
+    background-color: grey;
+}
+
+.boton-size{
+    width: 100%;
+}
+
+.login-with{
+    color: white;
+}
+
+.rrss{
+    
+}
